@@ -1,0 +1,3 @@
+# Ignore all local content except this ignore file.
+/*
+!/.gitignore
