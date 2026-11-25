@@ -1,3 +1,5 @@
-# Ignore all local content except this ignore file.
+# Keep the old site local and include the new site files.
 /*
 !/.gitignore
+!/rossiya-karta-final-2026.html
+!/prezentations/
