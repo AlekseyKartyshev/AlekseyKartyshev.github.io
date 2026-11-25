@@ -1,5 +1,5 @@
 # Keep the old site local and include the new site files.
 /*
 !/.gitignore
-!/rossiya-karta-final-2026.html
+!/index.html
 !/prezentations/
